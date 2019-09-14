@@ -1,4 +1,4 @@
-/**/#include<stdio.h>
+/*Creating a queue using array*/#include<stdio.h>
 #include<stdlib.h>
 int rear=-1,front =-1;
 int num[100];
